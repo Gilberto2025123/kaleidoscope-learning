@@ -3,7 +3,7 @@
 
 /* CSS Colour Palette Styles *//
 :root {
-       --platinum: #eae6eaff;
+       --primary-background: #eae6eaff;
        --amber: #ffbe0bff;
        --vista-blue: #8093f1ff;
        --orange-pantone: #fb5607ff;
@@ -13,7 +13,7 @@
 h1 {
     font-family: 'Barriecito', cursive;
     font-size: 2.5em;
-    color: #333;
+    color: var(--vista-blue);
 }
 
 body{ 
@@ -21,6 +21,6 @@ body{
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: var(--primary-background);
 
 }
