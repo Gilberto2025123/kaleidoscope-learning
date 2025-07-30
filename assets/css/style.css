@@ -1,6 +1,12 @@
 /* Google Fonts Import */
 @import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 /* CSS Colour Palette Styles */
 :root {
        --primary-background: #eae6eaff;
@@ -9,6 +15,9 @@
        --secondary-button: #fb5607ff;
        --primary-text: #054a91ff;
 }
+
+
+
 
 h1 {
     font-family: 'Barriecito', cursive;
