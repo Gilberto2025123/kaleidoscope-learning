@@ -2,16 +2,16 @@
 This website has been created to fulfill the project brief for Code Institute's first individual assessment.
 The live link can be found here:
 
-#Description
+## Description
 Kaleidoscope Learning is a fully responsive static HTML and CSS website designed to inform and provide resources for those engaging in diversity and inclusion topics within educational spaces.
 
 IMAGE HERE: Ami-responsive screenshot
 
 
-**Table Of Contents:**
+## Table Of Contents:
 Design & Planning
 
-User Stories
+## User Stories
 1. Students
 User Story: As a student, I want to quickly understand diversity expectations so I can prepare for my future career and contribute positively to inclusive environments.
 Acceptance Criteria:
@@ -80,26 +80,41 @@ Key Tasks:
 
 
 
-Wireframes
-Typography
-Colour Scheme
-Features
+## Wireframes
+## Typography
+## Colour Scheme
+## Features
 
-Navigation
-Footer
-Home page
-Other features
-Technologies Used
+### Navigation
+### Footer
+### Home page
+### Other features
+### Technologies Used
+HTML
+CSS
+Bootstrap
+Favcon.io
+Fontawesome
+Squoosh
+Code from Walkthrough Projects
+LMS
 
-Testing
+## Testing
 
-Bugs
+## Bugs
 
-Deployment
+## Deployment
+Deloying on Github
+The site was deployed to Github Pages using the following method:
 
-Credits
+Go to the Github repository.
+Navigate to the 'settings' tab.
+Using the 'select branch' dropdown menu, choose 'main'.
+Click 'save'.
 
-**Design & Planning:**
+## Credits
+
+
 User Stories
 Write your user stories in this section
 
@@ -150,14 +165,9 @@ Creating Repository on GitHub
 First make sure you are signed into Github and go to the code institutes template, which can be found here.
 Then click on use this template and select Create a new repository from the drop-down. Enter the name for the repository and click Create repository from template.
 Once the repository was created, I clicked the green gitpod button to create a workspace in gitpod so that I could write the code for the site.
-Deloying on Github
-The site was deployed to Github Pages using the following method:
 
-Go to the Github repository.
-Navigate to the 'settings' tab.
-Using the 'select branch' dropdown menu, choose 'main'.
-Click 'save'.
-Credits
+
+## Credits
 List of used resources for your website (text, images, snippets of code, projects....)
 
 Code & Text Content
