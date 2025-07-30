@@ -83,7 +83,8 @@ Key Tasks:
 ## Wireframes
 ## Typography
 ## Colour Scheme
-![Kaleidoscope Learning Palette!](assets/images/Kaleidoscope Learning.png)
+<img width="1600" height="1200" alt="Kaleidoscope Learning" src="https://github.com/user-attachments/assets/07c7c913-f5eb-4200-b6d1-444d6842d9a9" />
+
 ## Features
 
 ### Navigation
