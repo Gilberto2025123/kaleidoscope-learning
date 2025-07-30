@@ -23,7 +23,7 @@
 
 <body>
     <nav>
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#"><img src="assets/favicon/favicon-32x32.png"
                         alt="Kaleidoscope Learning Logo"></a>
@@ -41,7 +41,7 @@
                             <a class="nav-link" href="#about">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#events">Events</a>
+                            <a class="nav-link" href="#services">Events</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#resources">Resources</a>
@@ -57,22 +57,31 @@
 
     </nav>
 
-
-    <header id="home" class="container text-center my-5">
+    <header id="home" class="container text-center">
         <h1>Kaleidoscope Learning</h1>
         <p>Your one-stop shop for diversity and inclusion education.</p>
     </header>
 
     <!--Hero image-->
-    <section id="hero" class="container-fluid p-0">
+    <section id="hero" class="hero-section">
         <img src="assets/images/pexels-yankrukov-8613146.webp" alt="Kids playing with multicoloured plastic balls"
-            class="img-fluid" style="width: 100%; height: auto;">
+            class="img-fluid hero-image">
     </section>
 
     <main>
         <section id="about" class="container my-5">
-            <h2>About Us</h2>
-            <p>Learn about our mission to promote diversity and inclusion in educational spaces.</p>
+            <div class="row">
+                <div class="col-12 text-center mb-4">
+                    <h2>About Us</h2>
+                </div>
+                <div class="col-lg-6 col-md-8 col-12 mx-auto">
+                    <p class="lead">Learn about our mission to promote diversity and inclusion in educational spaces.
+                    </p>
+                    <p>At Kaleidoscope Learning, we believe that diversity and inclusion are essential components of
+                        effective education. Our comprehensive programs help educators create welcoming, equitable
+                        environments where all students can thrive.</p>
+                </div>
+            </div>
         </section>
 
 
@@ -81,54 +90,149 @@
 
 
         <section id="services" class="container my-5">
-            <h2>Events</h2>
-            <p>Discover our comprehensive diversity and inclusion training programs and workshops.</p>
+            <div class="row">
+                <div class="col-12 text-center mb-4">
+                    <h2>Events</h2>
+                    <p class="lead">Discover our comprehensive diversity and inclusion training programs and workshops.
+                    </p>
+                </div>
+                <div class="col-lg-4 col-md-6 col-12 mb-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Diversity Workshops</h5>
+                            <p class="card-text">Interactive workshops designed to build awareness and understanding of
+                                diversity in educational settings.</p>
+                            <a href="#" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-12 mb-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Inclusion Training</h5>
+                            <p class="card-text">Comprehensive training programs to help educators create inclusive
+                                learning environments.</p>
+                            <a href="#" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-12 mb-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Cultural Competency</h5>
+                            <p class="card-text">Develop cultural awareness and competency skills for working with
+                                diverse student populations.</p>
+                            <a href="#" class="btn btn-primary">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
-
-
 
 
 
 
         <section id="resources" class="container my-5">
-            <h2>Resources</h2>
-            <p>Access valuable resources and materials for diversity and inclusion education.</p>
-
-        </section>
-        <div id="carouselresources" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img src="assets/images/pexels-shkrabaanthony-6288088.webp" class="d-block w-100" alt="Teacher speaking with students playing with blocks">
+            <div class="row">
+                <div class="col-12 text-center mb-4">
+                    <h2>Resources</h2>
+                    <p class="lead">Access valuable resources and materials for diversity and inclusion education.</p>
                 </div>
-                <div class="carousel-item">
-                    <img src="assets/images/pexels-shvetsa-4421544.webp" class="d-block w-100" alt="Hand up in the air on a yellow background">
+                <div class="col-lg-6 col-md-12 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Educational Materials</h5>
+                            <p class="card-text">Download guides, worksheets, and educational materials to support your
+                                diversity and inclusion initiatives.</p>
+                            <ul class="list-unstyled">
+                                <li><i class="fas fa-download"></i> Diversity Assessment Tools</li>
+                                <li><i class="fas fa-download"></i> Inclusion Best Practices Guide</li>
+                                <li><i class="fas fa-download"></i> Cultural Awareness Worksheets</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
-                <div class="carousel-item">
-                    <img src="assets/images/pexels-pavel-danilyuk-8761322.webp" class="d-block w-100" alt="Professionals sitting in a classroom at a training course">
+                <div class="col-lg-6 col-md-12 mb-4">
+                    <div id="carouselresources" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="assets/images/pexels-shkrabaanthony-6288088.webp" class="d-block w-100"
+                                    alt="Teacher speaking with students playing with blocks">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="assets/images/pexels-shvetsa-4421544.webp" class="d-block w-100"
+                                    alt="Hand up in the air on a yellow background">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="assets/images/pexels-pavel-danilyuk-8761322.webp" class="d-block w-100"
+                                    alt="Professionals sitting in a classroom at a training course">
+                            </div>
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselresources"
+                            data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselresources"
+                            data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+                    </div>
                 </div>
             </div>
-        </div>
+        </section>
 
 
 
 
         <section id="contact" class="container my-5">
-            <h2>Contact Us</h2>
-            <p>Get in touch with our team to learn more about our services.</p>
-            <form>
-                <div class="mb-3">
-                    <label for="name" class="form-label">Name</label>
-                    <input type="text" class="form-control" id="name" required>
+            <div class="row">
+                <div class="col-12 text-center mb-4">
+                    <h2>Contact Us</h2>
+                    <p class="lead">Get in touch with our team to learn more about our resources, services and events or
+                        if you just want to subscribe to our newsletter.</p>
                 </div>
-                <div class="mb-3">
-                    <label for="email" class="form-label">Email</label>
-                    <input type="email" class="form-control" id="email" required>
-                </div>
-                <div class="mb-3">
-                    <label for="message" class="form-label">Message</label>
-                    <textarea class="form-control" id="message" rows="4" required></textarea>
-                </div>
-                <button type="submit" class="btn btn-primary">Send Message</button>
+                <div class="col-lg-8 col-md-10 col-12 mx-auto">
+                    <!--Modal addition-->
+                    <!-- Bootstrap modal -->
+                    <!-- Modal -->
+                    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                        aria-hidden="true">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h1 class="modal-title fs-5" id="exampleModalLabel">Subscribe</h1>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                        aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>
+                                        Join my newsletter for the latest updates on my projects,
+                                        coding tips, and industry insights delivered straight to your
+                                        inbox.
+                                    </p>
+                                    <form>
+                                        <div class="row">
+                                            <div class="col-md-6 mb-3">
+                                                <label for="name" class="form-label">Name</label>
+                                                <input type="text" class="form-control" id="name" required>
+                                            </div>
+                                            <div class="col-md-6 mb-3">
+                                                <label for="email" class="form-label">Email</label>
+                                                <input type="email" class="form-control" id="email" required>
+                                            </div>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="message" class="form-label">Message</label>
+                                            <textarea class="form-control" id="message" rows="4" required></textarea>
+                                        </div>
+                                        <div class="text-center">
+                                            <button type="submit" class="btn btn-primary btn-lg">Send Message</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
         </section>
     </main>
 
