@@ -83,7 +83,7 @@ Key Tasks:
 ## Wireframes
 ## Typography
 ## Colour Scheme
-![Kaleidoscope Learning Palette](assets/images/Kaleidoscope Learning.png)
+![Kaleidoscope Learning Palette!](assets/images/Kaleidoscope Learning.png)
 ## Features
 
 ### Navigation
