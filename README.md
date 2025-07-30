@@ -95,7 +95,6 @@ CSS
 Bootstrap
 Favcon.io
 Fontawesome
-Squoosh
 Code from Walkthrough Projects
 LMS
 
