@@ -1,13 +1,13 @@
 /* Google Fonts Import */
 @import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
-/* CSS Colour Palette Styles *//
+/* CSS Colour Palette Styles */
 :root {
        --primary-background: #eae6eaff;
-       --amber: #ffbe0bff;
-       --vista-blue: #8093f1ff;
-       --orange-pantone: #fb5607ff;
-       --polynesian-blue: #054a91ff;
+       --primary-button: #ffbe0bff;
+       --secondary-sub-heading-background: #8093f1ff;
+       --secondary-button: #fb5607ff;
+       --primary-text: #054a91ff;
 }
 
 h1 {
