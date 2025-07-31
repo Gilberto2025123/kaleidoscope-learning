@@ -148,27 +148,33 @@ There were a few main features included in this one page project. Listed here in
 
 ## Testing
 
-Google's Lighthouse Performance
-Screenshots of certain pages and scores (mobile and desktop)
+### Google's Lighthouse Performance
+#### Mobile
+<img width="1340" height="735" alt="Screenshot 2025-07-31 at 15 34 30" src="https://github.com/user-attachments/assets/6e7173a2-5ee5-4103-9249-74ea16aef46e" />
 
-Browser Compatibility
-Check compatability with different browsers
+#### Desktop
+<img width="1141" height="622" alt="Screenshot 2025-07-31 at 15 36 58" src="https://github.com/user-attachments/assets/cc09ee29-6155-48d8-9768-3f96f49292b6" />
 
-Code Validation
-Validate your code HTML, CSS (all pages/files need to be validated!!!), display screenshots
+
+
+### Browser Compatibility
+
+
+### Code Validation
+#### HTML Validator 
+<img width="1505" height="816" alt="Screenshot 2025-07-31 at 15 14 20" src="https://github.com/user-attachments/assets/1324e793-11b9-4620-a893-cc74b77d6568" />
+
+#### CSS Validator 
+<img width="1508" height="820" alt="Screenshot 2025-07-31 at 15 19 25" src="https://github.com/user-attachments/assets/b134a197-faac-4295-a580-8ca90365e5d4" />
+
 
 Manual Testing user stories or/and features
 Test all your user stories, you an create table
 
 
-User Story	Test	Pass
-paste here you user story	what is visible to the user and what action they should perform	✓ and attach screenshot
-
 ## Bugs
 * GitHub had a pull error – as I updated the readme file, VScode did not configure them in time to add the new commits.
 * Used Co-pilot to reconfigure it – used gift config pull.ff false command prompt in the terminal.
-
-
 
 ## Deployment
 Deloying on Github
@@ -178,6 +184,11 @@ Go to the Github repository.
 Navigate to the 'settings' tab.
 Using the 'select branch' dropdown menu, choose 'main'.
 Click 'save'.
+
+## Things Did Not Complete
+These are the project elements I did not have time to complete. 
+* Video element explainer with links to the resources
+* A success page for those who sign up for the newsletter or send a message to contact the page. 
 
 ## Credits
 
