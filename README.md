@@ -181,7 +181,6 @@ Test all your user stories, you an create table
 * Used Co-pilot to reconfigure it – used gift config pull.ff false command prompt in the terminal.
 
 ## Deployment
-Deloying on Github
 This site was deployed to Github Pages using the following method:
 
 Go to the Github repository.
