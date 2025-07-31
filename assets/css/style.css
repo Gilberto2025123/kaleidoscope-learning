@@ -105,3 +105,22 @@ body{
   z-index: 1030;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+
+/**
+ * Card Styles
+ */
+.card {
+  border: none;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 200px;
+}
