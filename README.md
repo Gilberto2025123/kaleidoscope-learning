@@ -158,6 +158,7 @@ There were a few main features included in this one page project. Listed here in
 
 
 ### Browser Compatibility
+Used https://www.browserling.com/safari-testing to test across Safari, Chrome, Edge and Firefox
 
 
 ### Code Validation
