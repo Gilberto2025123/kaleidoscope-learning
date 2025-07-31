@@ -172,18 +172,16 @@ Used https://www.browserling.com/safari-testing to test across Safari, Chrome, E
 <img width="1508" height="820" alt="Screenshot 2025-07-31 at 15 19 25" src="https://github.com/user-attachments/assets/b134a197-faac-4295-a580-8ca90365e5d4" />
 
 
-Manual Testing user stories or/and features
-Test all your user stories, you an create table
-
 
 ## Bugs
 * GitHub had a pull error – as I updated the readme file, VScode did not configure them in time to add the new commits.
 * Used Co-pilot to reconfigure it – used gift config pull.ff false command prompt in the terminal.
+* VS Code crashed, so I reverted to the saved version of the HTML code and refreshed. I created a backup HTML file in local folder, deleted once caught up. 
 
 ## Deployment
-This site was deployed to Github Pages using the following method:
+This site was deployed to GitHub Pages using the following method:
 
-Go to the Github repository.
+Go to the GitHub repository.
 Navigate to the 'settings' tab.
 Using the 'select branch' dropdown menu, choose 'main'.
 Click 'save'.
@@ -196,10 +194,10 @@ These are the project elements I did not have time to complete.
 ## Credits
 
 ### Web links for content: 
-https://www.universitiesuk.ac.uk/topics/equality-diversity-and-inclusion
-https://www.ctl.ox.ac.uk/included-a-guide-to-inclusive-teaching
-https://www.nga.org.uk/news-views/campaigns/equality-diversity-and-inclusion-resources/
-https://www.gov.uk/government/organisations/department-for-education/about/equality-and-diversity
+* https://www.universitiesuk.ac.uk/topics/equality-diversity-and-inclusion
+* https://www.ctl.ox.ac.uk/included-a-guide-to-inclusive-teaching
+* https://www.nga.org.uk/news-views/campaigns/equality-diversity-and-inclusion-resources/
+* https://www.gov.uk/government/organisations/department-for-education/about/equality-and-diversity
 
 ### Code: 
 LMS Walkthrough Projects
@@ -212,15 +210,15 @@ LMS Walkthrough Projects
 7. Bootstrap grid element 
 
 ### Media & Images 
-Photo by Tara Winstead from Pexels: https://www.pexels.com/photo/colorful-puzzle-pieces-and-a-text-saying-embrace-differences-8386149/
-Photo by Tara Winstead from Pexels: https://www.pexels.com/photo/an-illustration-of-stick-people-8378752/
-Photo by Yan Krukau from Pexels: https://www.pexels.com/photo/professor-with-his-students-8197544/
-Photo by Keira Burton from Pexels: https://www.pexels.com/photo/cheerful-multiethnic-students-with-books-sitting-near-university-6146978/
-Photo by Anna Shvets from Pexels: https://www.pexels.com/photo/a-persons-left-hand-on-yellow-background-4421544/
-Photo by Antoni Shkraba Studio from Pexels: https://www.pexels.com/photo/a-woman-and-girl-playing-together-6288088/
-Photo by Cedric Fauntleroy from Pexels: https://www.pexels.com/photo/a-woman-in-hijab-8154522/
-Photo by Yan Krukau from Pexels: https://www.pexels.com/photo/little-girls-and-boys-having-fun-playing-with-colorful-balls-8613146/
-Photo by Pavel Danilyuk from Pexels: https://www.pexels.com/photo/woman-in-blue-long-sleeve-shirt-sitting-on-gray-chair-smiling-8761322/
+* Photo by Tara Winstead from Pexels: https://www.pexels.com/photo/colorful-puzzle-pieces-and-a-text-saying-embrace-differences-8386149/
+* Photo by Tara Winstead from Pexels: https://www.pexels.com/photo/an-illustration-of-stick-people-8378752/
+* Photo by Yan Krukau from Pexels: https://www.pexels.com/photo/professor-with-his-students-8197544/
+* Photo by Keira Burton from Pexels: https://www.pexels.com/photo/cheerful-multiethnic-students-with-books-sitting-near-university-6146978/
+* Photo by Anna Shvets from Pexels: https://www.pexels.com/photo/a-persons-left-hand-on-yellow-background-4421544/
+* Photo by Antoni Shkraba Studio from Pexels: https://www.pexels.com/photo/a-woman-and-girl-playing-together-6288088/
+* Photo by Cedric Fauntleroy from Pexels: https://www.pexels.com/photo/a-woman-in-hijab-8154522/
+* Photo by Yan Krukau from Pexels: https://www.pexels.com/photo/little-girls-and-boys-having-fun-playing-with-colorful-balls-8613146/
+* Photo by Pavel Danilyuk from Pexels: https://www.pexels.com/photo/woman-in-blue-long-sleeve-shirt-sitting-on-gray-chair-smiling-8761322/
 
 
 
