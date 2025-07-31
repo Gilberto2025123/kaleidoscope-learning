@@ -118,6 +118,8 @@ body{
   border-radius: 0.5rem;
   overflow: hidden;
   transition: transform 0.3s;
+  text-align: center;
+  background-color: var(--primary-button);
 }
 
 .card:hover {
