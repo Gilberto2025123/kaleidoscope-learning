@@ -124,3 +124,12 @@ body{
   object-fit: cover;
   height: 200px;
 }
+
+.none {
+  display: none;
+}
+
+navbar { 
+  background-color: var(--primary-background);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
