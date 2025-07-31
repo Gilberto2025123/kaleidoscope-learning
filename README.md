@@ -132,7 +132,7 @@ There were a few main features included in this one page project. Listed here in
 #### Use of AI
 * AI was used to generate user stories, which were later refined to make sense and align with the brief.
 * AI was used to debug code errors.
-* AI was used for researching diversity and inclusion principles, especially taking advantage of the quick use of links that were highlighted
+* AI was used for researching diversity and inclusion principles, especially taking advantage of the quick use of links that were highlighted. 
 
 #### Tech Used 
 1. HTML
@@ -144,7 +144,7 @@ There were a few main features included in this one page project. Listed here in
 7. W3Schools
 8. TinyPng
 9. GitHub
-10. 
+10. Pexels 
 
 ## Testing
 
@@ -161,6 +161,8 @@ Manual Testing user stories or/and features
 Test all your user stories, you an create table
 
 
+User Story	Test	Pass
+paste here you user story	what is visible to the user and what action they should perform	✓ and attach screenshot
 
 ## Bugs
 * GitHub had a pull error – as I updated the readme file, VScode did not configure them in time to add the new commits.
@@ -178,17 +180,44 @@ Using the 'select branch' dropdown menu, choose 'main'.
 Click 'save'.
 
 ## Credits
-List of used resources for your website (text, images, snippets of code, projects....)
 
-Code & Text Content
+### Web links for content: 
+https://www.universitiesuk.ac.uk/topics/equality-diversity-and-inclusion
+https://www.ctl.ox.ac.uk/included-a-guide-to-inclusive-teaching
+https://www.nga.org.uk/news-views/campaigns/equality-diversity-and-inclusion-resources/
+https://www.gov.uk/government/organisations/department-for-education/about/equality-and-diversity
 
-Media
+### Code: 
+LMS Walkthrough Projects
+1. https://github.com/Gilberto2025123/love-running.git
+2. https://github.com/Gilberto2025123/boardwalk-games.git
+3. https://github.com/Gilberto2025123/my-first-project.git
+4. Bootstrap nav bar element 
+5. Bootstrap modal element 
+6. Bootstrap carousel element
+7. Bootstrap grid element 
 
-Acknowledgment
+### Media & Images 
+Photo by Tara Winstead from Pexels: https://www.pexels.com/photo/colorful-puzzle-pieces-and-a-text-saying-embrace-differences-8386149/
+Photo by Tara Winstead from Pexels: https://www.pexels.com/photo/an-illustration-of-stick-people-8378752/
+Photo by Yan Krukau from Pexels: https://www.pexels.com/photo/professor-with-his-students-8197544/
+Photo by Keira Burton from Pexels: https://www.pexels.com/photo/cheerful-multiethnic-students-with-books-sitting-near-university-6146978/
+Photo by Anna Shvets from Pexels: https://www.pexels.com/photo/a-persons-left-hand-on-yellow-background-4421544/
+Photo by Antoni Shkraba Studio from Pexels: https://www.pexels.com/photo/a-woman-and-girl-playing-together-6288088/
+Photo by Cedric Fauntleroy from Pexels: https://www.pexels.com/photo/a-woman-in-hijab-8154522/
+Photo by Yan Krukau from Pexels: https://www.pexels.com/photo/little-girls-and-boys-having-fun-playing-with-colorful-balls-8613146/
+Photo by Pavel Danilyuk from Pexels: https://www.pexels.com/photo/woman-in-blue-long-sleeve-shirt-sitting-on-gray-chair-smiling-8761322/
+
+
+
+### Acknowledgments
+I wouldn't have been able to have done this without the help of several people! So thank you! 
+
+* My Lord and Saviour Jesus Christ- sustaining me through the sleepless nights.
+* My wife and baby- for understanding the reason for my absence in the last few weeks.
+* My cohort facilitator - Marko Tot - provided guidance and unreserved support and guidance throughout the course. 
 
 
 
 
-User Story	Test	Pass
-paste here you user story	what is visible to the user and what action they should perform	✓ and attach screenshot
 
