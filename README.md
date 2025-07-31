@@ -8,6 +8,9 @@ Kaleidoscope Learning is a fully responsive static HTML and CSS website designed
 
 <img width="1085" height="742" alt="Screenshot 2025-07-31 at 12 19 31" src="https://github.com/user-attachments/assets/ff2234f7-6166-4ec0-bf03-9e1df300f7f0" />
 
+## Project Planning 
+<img width="1512" height="819" alt="Screenshot 2025-07-31 at 15 54 12" src="https://github.com/user-attachments/assets/3628a990-e649-4189-91e7-e29bc8da7ed1" />
+
 
 ## User Stories
 1. User Story:
